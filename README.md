@@ -1,6 +1,6 @@
 # Tanelorn OT — Android
 
-**Versão atual:** v2026.07.20
+**Versão atual:** v2026.07.20-2
 
 ## Download
 
